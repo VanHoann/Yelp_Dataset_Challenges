@@ -14,7 +14,7 @@ The report `Final_report.pdf` for each project will further discuss the model an
 [Project 2](https://github.com/VanHoann/Yelp_Dataset_Challenges/tree/main/Link_Prediction): Link Prediction using [GraphSAGE](https://arxiv.org/abs/1706.02216), predicting the presence of relationship between vertices using DFS-like approach. The final model uses AUC score metrics, and able to achieve **95.76%**
 <br>
 
-[Project 3](https://github.com/VanHoann/Yelp_Dataset_Challenges/tree/main/Sentiment_Analysis/Recommendation_Prediction): Recommendation Prediction based on [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031) implementation with some feature engineering. RMSE metrics is used, and the final model is able to achieve the value of **1.061**
+[Project 3](https://github.com/VanHoann/Yelp_Dataset_Challenges/tree/main/Recommendation_Prediction): Recommendation Prediction based on [Neural Collaborative Filtering](https://arxiv.org/abs/1708.05031) implementation with some feature engineering. RMSE metrics is used, and the final model is able to achieve the value of **1.061**
 > Another competitive approach is [Wide and Deep Learning](https://arxiv.org/abs/1606.07792)
 <br>
 
