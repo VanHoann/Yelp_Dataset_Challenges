@@ -3,7 +3,7 @@ This repository contains the codes for 3 projects on the Yelp Dataset for a Deep
 
 The training method for each project is provided under `Final_model.ipynb` in each folder, as well as the training and validation data used. 
 
-The report `Final_report.pdf` for each project will further discuss the model and features of the data used, as well as further explain the implementation and the final hyperparameters.
+The report `Project_report.pdf` for each project will further discuss the model and features of the data used, as well as further explain the implementation and the final hyperparameters.
 <br><br>
 
 ## Projects
